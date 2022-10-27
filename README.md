@@ -12,7 +12,6 @@ Our client Flatiron Insurance Agency, offers a wide variety of property insuranc
 
 In order to meet our clients' expectations, which is to provide the best coverage at a competitive premium. DEE Analytics will conduct an inferential analysis on variables such as bedrooms, bathrooms, sqft_living, floors and/or added features to the house that have a higher correlation to house sale value or price ,than any other house sale predictors.
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
 
 ***
 Questions to consider:
