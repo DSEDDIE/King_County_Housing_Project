@@ -36,8 +36,7 @@ Questions to consider:
 
 ## Methods
 
-One of the first methods we did was looking for any correlation.
-
+One of the first methods used was to looking for any correlation.
 
 ***
 Questions to consider:
